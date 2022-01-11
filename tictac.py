@@ -8,6 +8,7 @@ def main():
     print("")
     print_board(positions)
     print("")
+    #test
 
 
     positions = x_input(positions)
